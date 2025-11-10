@@ -79,4 +79,4 @@ If this code or workflow is used in your research, please cite:
 
 ## Contact
 For any questions or collaboration requests, please contact:  
-**Semanur Kucuk** — [s.kuecuek@tudelft.nl]
+**Semanur Kucuk** — [s.kuecuek@tudelft.nl / semanurkucuk7997@gmail.com]
